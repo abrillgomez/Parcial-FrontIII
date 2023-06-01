@@ -1,8 +1,9 @@
-import React from 'react'
-
-const Card = () => {
+function Card({ favoriteTeam, favoritePlayer }) {
   return (
-    <div>Hola , soy una tarjeta</div>
+    <div className="card">
+      <h2>Your favorite team is: {favoriteTeam}</h2>
+      <p>Your favorite player is: {favoritePlayer}</p>
+    </div>
   )
 }
 

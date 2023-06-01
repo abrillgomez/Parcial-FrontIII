@@ -19,6 +19,14 @@ Para el segundo input, debemos validar que contenga al menos al menos 6 caracter
 En caso de que alguna de las validaciones sea incorrecta, debemos mostrar el siguiente mensaje de error:  “Por favor chequea que la información sea correcta”.
 En caso de que los valores ingresados superen las validaciones en forma exitosa, debemos renderizar el componente llamado Card que contenga dicha información. Podemos darle el estilo y/o forma que deseemos, en tanto y en cuanto contenga al menos los mismos valores que se hayan ingresado en el formulario.
 
+Ejemplos de pantallas
+Para que puedas orientarte mejor, te dejamos unos ejemplos de cómo deberían verse las distintas partes del entregable. Dentro de App vamos a tener el formulario y el respectivo mensaje de error o el cartel( Card) con la información ingresada.
+Los estilos no son evaluados, luego de cumplir con el funcionamiento pueden agregarle los estilos que deseen.
+En la siguiente hoja pueden ver los ejemplos de un formulario que pregunta sobre el color favorito del usuario. 👇
+
+![image](https://github.com/abrillgomez/Parcial-FrontIII/assets/94066092/45d7cc6b-70d7-45c5-922e-e936d23eb60d)
+![image](https://github.com/abrillgomez/Parcial-FrontIII/assets/94066092/ac990ee4-4c41-455b-bac2-8352d4f7b5dd)
+
 _ Recomendación de pasos a seguir
 Para ayudar a que puedas organizarte y realizar la entrega a tiempo, te dejamos una propuesta de flujo de trabajo. De todas maneras, puedes organizarte como lo creas más conveniente para lograr el objetivo buscado.
 
